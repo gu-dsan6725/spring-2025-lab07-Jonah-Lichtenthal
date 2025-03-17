@@ -1,0 +1,6 @@
+input: I see a charge on my credit card statement but I paid on time, why?
+category: If you think there's a charge you didn't make, you can dispute it by going to the 'Transaction Dispute' section in the app.<|eot_id|>
+input: Do you have a branch in Timbuktu?
+category: Yes, there is a branch in Timbuktu.<|eot_id|>
+input: I lost my card and my replacement card has not arrived.
+category: What is the estimated delivery time for my replacement card?<|eot_id|>
